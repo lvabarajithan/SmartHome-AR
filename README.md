@@ -16,6 +16,14 @@ Hover/Gesture your hand over the switch (in an AR way) will toggle the state of 
 
 - Also attached the `slides` used for demo presentation.
 
+**Virtual buttons:**
+
+![ar-interface](https://raw.githubusercontent.com/lvabarajithan/SmartHome-AR/master/ar-interface.png)
+
+**On action:**
+
+![led is on](https://raw.githubusercontent.com/lvabarajithan/SmartHome-AR/master/led-on.png)
+
 ## Applications
 - Smart glasses (Ironman style 😎)
 - Possibilities are countless...
