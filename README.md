@@ -33,8 +33,10 @@ Hover/Gesture your hand over the switch (in an AR way) will toggle the state of 
 ### Setup Vuforia
 
 - Create an account in Vuforia portal
-- Upload the AR interfacing image or QR code
+- Upload the AR interfacing image or QR code for masking
 - Build and import onto the project
+
+![masking](https://raw.githubusercontent.com/lvabarajithan/SmartHome-AR/master/masking.png)
 
 ### Setup AndroidThings
 
@@ -46,6 +48,8 @@ Hover/Gesture your hand over the switch (in an AR way) will toggle the state of 
 - Listen to the realtime database for changes (Database configured below 👇🏻)
 - Update UI accordingly
 - Upload the app to AndroidThings
+
+![android things](https://raw.githubusercontent.com/lvabarajithan/SmartHome-AR/master/android-things-board.png)
 
 ### Setup Firebase project
 
