@@ -8,7 +8,7 @@ It's a college final year project implemented on Android (Back in 2017), but can
 
 The switch controls will be shown virtually when you point your mobile camera to a smart appliance.
 
-![How it works](https://raw.githubusercontent.com/lvabarajithan/SmartHome-AR/master/how-it-works.png)
+<img src="https://raw.githubusercontent.com/lvabarajithan/SmartHome-AR/master/how-it-works.png" alt="how it works" width="50%">
 
 Hover/Gesture your hand over the switch (in an AR way) will toggle the state of the smart appliance.
 
@@ -18,13 +18,14 @@ Hover/Gesture your hand over the switch (in an AR way) will toggle the state of 
 
 **Virtual buttons:**
 
-![ar-interface](https://raw.githubusercontent.com/lvabarajithan/SmartHome-AR/master/ar-interface.png)
+<img src="https://raw.githubusercontent.com/lvabarajithan/SmartHome-AR/master/ar-interface.png" alt="ar interface" width="40%">
 
 **On action:**
 
-![led is on](https://raw.githubusercontent.com/lvabarajithan/SmartHome-AR/master/led-on.png)
+<img src="https://raw.githubusercontent.com/lvabarajithan/SmartHome-AR/master/led-on.png" alt="led is on" width="50%">
 
 ## Applications
+
 - Smart glasses (Ironman style 😎)
 - Possibilities are countless...
 
@@ -44,7 +45,7 @@ Hover/Gesture your hand over the switch (in an AR way) will toggle the state of 
 - Upload the AR interfacing image or QR code for masking
 - Build and import onto the project
 
-![masking](https://raw.githubusercontent.com/lvabarajithan/SmartHome-AR/master/masking.png)
+<img src="https://raw.githubusercontent.com/lvabarajithan/SmartHome-AR/master/masking.png" alt="masking" width="20%">
 
 ### Setup AndroidThings
 
@@ -57,7 +58,7 @@ Hover/Gesture your hand over the switch (in an AR way) will toggle the state of 
 - Update UI accordingly
 - Upload the app to AndroidThings
 
-![android things](https://raw.githubusercontent.com/lvabarajithan/SmartHome-AR/master/android-things-board.png)
+<img src="https://raw.githubusercontent.com/lvabarajithan/SmartHome-AR/master/android-things-board.png" alt="android things" width="30%">
 
 ### Setup Firebase project
 
