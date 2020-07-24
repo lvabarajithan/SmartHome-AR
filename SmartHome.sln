@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHome", "Assembly-CSharp.csproj", "{E6A7C6DB-A8A4-9C04-A73B-3CDCE73AD29D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHome", "Assembly-CSharp-Editor.csproj", "{641762F4-EEED-648A-E65A-5EA762358A7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6A7C6DB-A8A4-9C04-A73B-3CDCE73AD29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A7C6DB-A8A4-9C04-A73B-3CDCE73AD29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A7C6DB-A8A4-9C04-A73B-3CDCE73AD29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A7C6DB-A8A4-9C04-A73B-3CDCE73AD29D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{641762F4-EEED-648A-E65A-5EA762358A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641762F4-EEED-648A-E65A-5EA762358A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641762F4-EEED-648A-E65A-5EA762358A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641762F4-EEED-648A-E65A-5EA762358A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
